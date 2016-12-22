@@ -11,8 +11,7 @@ can be found in the following url: http://creativecommons.org/publicdomain/zero/
 
 If you have any questions about this tutorial don't hesitate to ask: 
 
-mail: chavezlucero88@gmail.com
-tumblr: developerprincess.tumblr.com
+mail: chavezlucero88@gmail.com | chavez.lucero@pucp.pe
 twitter: @devprincess_
 
 Happy coding! :-)
